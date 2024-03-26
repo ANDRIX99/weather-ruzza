@@ -1,0 +1,8 @@
+{
+  "name": "Weather Ruzza",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "bbee46f7"
+}
